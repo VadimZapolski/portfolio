@@ -1,0 +1,40 @@
+.mainBlock {
+    height: 100vh;
+    background-color: #ff9300;
+    display: flex;
+    align-items: center;
+}
+
+.profile {
+    border: 1px solid;
+    width: 70%;
+    margin: 0 auto;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.profileFoto {
+    border: 1px solid;
+    height: 70%;
+    width: 30%;
+    margin: 10px;
+
+}
+.infoProfile{
+    height: 100%;
+    border: 1px solid;
+    display: flex;
+
+    flex-direction: column;
+}
+.infoPrivet{
+    border: 1px solid;
+}
+.infoName{
+    border: 1px solid;
+}
+.profileList{
+    border: 1px solid;
+}

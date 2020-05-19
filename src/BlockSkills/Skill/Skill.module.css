@@ -1,0 +1,21 @@
+.skill {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 360px;
+
+}
+
+.icon {
+
+}
+
+.nameSkill {
+
+}
+
+.descriptionSkill {
+
+}

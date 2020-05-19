@@ -1,0 +1,36 @@
+.footer {
+    height: 30vh;
+    background-color: #46de1b;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.blockFooter{
+    border: 1px solid;
+    width: 80%;
+
+    margin: 0 auto;
+    background-color: #fff;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.name{
+    border: 1px solid;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.blockSilki{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.prava{
+    border: 1px solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 5px;
+}

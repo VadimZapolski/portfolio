@@ -1,0 +1,12 @@
+.silki{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.nameSilki {
+    border: 1px solid;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
